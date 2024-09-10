@@ -26,8 +26,8 @@ according to the associated emotion.
 
 ### About the dataset
 The data set consists of 3 folders, i.e., 'test', 'train', and 'validation'.
-Each of these folders has four subfolders:
-● ‘happy’: Images of people who have happy facial expressions.
-● ‘sad’: Images of people with sad or upset facial expressions.
-● ‘surprise’: Images of people who have shocked or surprised facial expressions.
+Each of these folders has four subfolders: <br>
+● ‘happy’: Images of people who have happy facial expressions. <br>
+● ‘sad’: Images of people with sad or upset facial expressions.<br>
+● ‘surprise’: Images of people who have shocked or surprised facial expressions. <br>
 ● ‘neutral’: Images of people showing no prominent emotion in their facial expression at all.
