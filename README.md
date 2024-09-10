@@ -25,7 +25,7 @@ perform multi-class classification on images of facial expressions, to classify 
 according to the associated emotion.
 
 ### About the dataset
-The data set consists of 3 folders, i.e., 'test', 'train', and 'validation'.
+The data set consists of 3 folders, i.e., 'test', 'train', and 'validation'. <br>
 Each of these folders has four subfolders: <br>
 ● ‘happy’: Images of people who have happy facial expressions. <br>
 ● ‘sad’: Images of people with sad or upset facial expressions.<br>
